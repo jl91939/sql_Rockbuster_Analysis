@@ -17,8 +17,8 @@ ____
 ## Project Deliverables and Final Analysis Critera.
 
     ● Write moderately complex SQL queries to answer business questions.
-    ● Present your SQL results to business managers by creating visualizations and telling a compelling story.
-    ● Present your SQL results to your technical colleagues using Excel and by creating a data dictionary.
+    ● Present SQL results to business managers by creating visualizations and telling a compelling story.
+    ● Present SQL results to your technical colleagues using Excel and by creating a data dictionary.
 
 ___
 
