@@ -14,9 +14,9 @@ The Rockbuster Stealth Management Board has asked a series of business questions
 
 ____
 
-# Project Deliverables and Final Analysis Critera.
+## Project Deliverables and Final Analysis Critera.
 
-    ● Write moderately complex SQL queries to answer business questions.   
+    ● Write moderately complex SQL queries to answer business questions.
     ● Present your SQL results to business managers by creating visualizations and telling a compelling story.
     ● Present your SQL results to your technical colleagues using Excel and by creating a data dictionary.
 
