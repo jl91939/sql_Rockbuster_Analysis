@@ -23,3 +23,5 @@ ____
 ___
 
 You can view the visualizations created for this project via my [Public Tableau](https://public.tableau.com/app/profile/jeff.liv5393/viz/Exercise3_10_CF/RockbusterStory?publish=yes) Link.
+
+NOTE: The contents of the data and project brief have been fabricated by CareerFoundry for the purpose of this Project.
