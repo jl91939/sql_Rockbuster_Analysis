@@ -1,5 +1,5 @@
 # Query Examples.
-Below are some basic queries that I created for this project.
+Below are some basic queries created for this project to demonstrate basic knowledge and understanding of SQL.
 ___
 ## Creating INSERT statements.
 ```
