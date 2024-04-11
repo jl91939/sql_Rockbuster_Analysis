@@ -1,6 +1,6 @@
 # Query Examples.
 
-Below are some query examples that I created for this project.
+Below are some query examples that I created for this project that demonstrates a furthe and advanced knowledge of SQL. 
 ___
 ## Joining Tables.
 ```
